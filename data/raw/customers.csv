@@ -1,0 +1,151 @@
+customer_id,company_name,industry,country,email,segment,status,signup_date
+1,Aero Watch,Airport,Finland,contact1@example.com,SMB,active,2024-05-10
+2,Drone Monitoring,Construction,Netherlands,contact2@example.com,SMB,active,2024-11-10
+3,Secure Security,Government,UK,contact3@example.com,SMB,active,2022-05-02
+4,Aero Analytics,Logistics,Sweden,contact4@example.com,Enterprise,trial,2023-04-12
+5,Prime Insights,Airport,Norway,contact5@example.com,SMB,churned,2022-11-27
+6,Sky Watch,Logistics,Denmark,contact6@example.com,SMB,active,2022-03-29
+7,Aero Monitoring,Port Authority,Norway,contact7@example.com,Mid-Market,active,2024-05-21
+8,Secure Watch,Port Authority,UK,contact8@example.com,Enterprise,active,2022-05-11
+9,City Monitoring,Security,Netherlands,contact9@example.com,SMB,active,2024-02-09
+10,City Insights,Logistics,Netherlands,contact10@example.com,SMB,active,2022-12-10
+11,Secure Networks,Government,UK,contact11@example.com,Mid-Market,active,2024-03-16
+12,Prime Systems,Energy,Denmark,contact12@example.com,SMB,active,2023-01-21
+13,Sky Security,Airport,Sweden,contact13@example.com,Enterprise,active,2024-08-13
+14,Northern Solutions,Construction,Germany,contact14@example.com,Enterprise,active,2022-10-04
+15,Drone Security,Government,Denmark,contact15@example.com,SMB,active,2023-04-05
+16,Secure Solutions,Government,Germany,contact16@example.com,SMB,active,2022-01-22
+17,Aero Analytics,Port Authority,UK,contact17@example.com,Enterprise,active,2022-09-10
+18,Northern Analytics,Logistics,Finland,contact18@example.com,Mid-Market,active,2024-01-18
+19,Cloud Solutions,Security,Germany,contact19@example.com,Mid-Market,active,2024-05-06
+20,Prime Systems,Security,Sweden,contact20@example.com,Mid-Market,active,2023-04-20
+21,Sky Networks,Airport,Finland,contact21@example.com,Mid-Market,active,2024-12-18
+22,City Analytics,Port Authority,Germany,contact22@example.com,Enterprise,active,2023-05-26
+23,Northern Analytics,Government,UK,contact23@example.com,Enterprise,active,2023-12-01
+24,City Systems,Energy,Finland,contact24@example.com,Enterprise,active,2024-09-02
+25,Prime Solutions,Port Authority,UK,contact25@example.com,Mid-Market,trial,2022-07-09
+26,Prime Monitoring,Airport,Germany,contact26@example.com,Enterprise,active,2024-08-15
+27,Aero Watch,Airport,UK,contact27@example.com,Mid-Market,active,2023-11-18
+28,Secure Systems,Port Authority,Sweden,contact28@example.com,Mid-Market,trial,2024-08-15
+29,Aero Monitoring,Airport,Germany,contact29@example.com,SMB,active,2023-07-17
+30,Aero Insights,Port Authority,Germany,contact30@example.com,Enterprise,trial,2024-04-11
+31,Drone Networks,Construction,Germany,contact31@example.com,Enterprise,active,2023-10-09
+32,Cloud Security,Port Authority,Denmark,contact32@example.com,Mid-Market,active,2022-01-21
+33,Cloud Solutions,Logistics,Denmark,contact33@example.com,Enterprise,active,2024-04-20
+34,Secure Systems,Port Authority,Denmark,contact34@example.com,Mid-Market,active,2022-06-16
+35,Aero Security,Airport,Sweden,contact35@example.com,SMB,active,2023-01-23
+36,City Monitoring,Logistics,Finland,contact36@example.com,SMB,churned,2023-08-24
+37,Vision Networks,Airport,UK,contact37@example.com,SMB,active,2022-11-12
+38,Northern Systems,Security,Netherlands,contact38@example.com,SMB,active,2022-01-14
+39,City Monitoring,Security,Germany,contact39@example.com,SMB,active,2022-08-30
+40,Cloud Watch,Logistics,UK,contact40@example.com,Mid-Market,active,2024-02-16
+41,Secure Watch,Construction,Germany,contact41@example.com,SMB,active,2023-07-19
+42,Cloud Insights,Security,Sweden,contact42@example.com,Mid-Market,active,2024-06-16
+43,Drone Analytics,Port Authority,Germany,contact43@example.com,SMB,active,2022-04-02
+44,Secure Solutions,Airport,Denmark,contact44@example.com,Mid-Market,active,2024-08-13
+45,Secure Networks,Security,Netherlands,contact45@example.com,SMB,active,2023-05-24
+46,Northern Networks,Security,Norway,contact46@example.com,SMB,active,2024-02-15
+47,Vision Systems,Construction,Germany,contact47@example.com,SMB,active,2022-02-04
+48,Vision Monitoring,Logistics,UK,contact48@example.com,Mid-Market,active,2022-07-25
+49,City Systems,Logistics,Denmark,contact49@example.com,SMB,active,2024-10-22
+50,Prime Insights,Government,Norway,contact50@example.com,Enterprise,trial,2024-10-18
+51,Prime Insights,Construction,Netherlands,contact51@example.com,SMB,active,2023-07-20
+52,Cloud Monitoring,Port Authority,Norway,contact52@example.com,SMB,active,2023-12-04
+53,Vision Networks,Logistics,Denmark,contact53@example.com,Enterprise,active,2023-02-06
+54,Aero Watch,Airport,Finland,contact54@example.com,Mid-Market,active,2023-12-31
+55,Aero Security,Construction,Finland,contact55@example.com,SMB,active,2022-06-11
+56,Vision Insights,Security,Norway,contact56@example.com,Mid-Market,active,2022-07-21
+57,Prime Analytics,Airport,Sweden,contact57@example.com,Mid-Market,active,2024-09-22
+58,Northern Insights,Airport,UK,contact58@example.com,Mid-Market,active,2022-09-27
+59,Prime Networks,Security,UK,contact59@example.com,SMB,active,2024-03-26
+60,City Systems,Construction,Norway,contact60@example.com,SMB,trial,2023-04-01
+61,City Watch,Security,Germany,contact61@example.com,Mid-Market,active,2024-10-13
+62,Aero Systems,Government,Germany,contact62@example.com,Enterprise,active,2022-10-23
+63,Cloud Analytics,Airport,UK,contact63@example.com,Mid-Market,active,2023-12-21
+64,Drone Insights,Energy,UK,contact64@example.com,SMB,active,2022-12-04
+65,Vision Networks,Energy,Finland,contact65@example.com,Mid-Market,active,2024-05-28
+66,Sky Systems,Port Authority,Sweden,contact66@example.com,Mid-Market,active,2024-12-12
+67,City Security,Logistics,Denmark,contact67@example.com,SMB,active,2024-03-02
+68,City Analytics,Security,Germany,contact68@example.com,SMB,active,2022-08-05
+69,Drone Monitoring,Security,UK,contact69@example.com,Mid-Market,active,2024-02-03
+70,Vision Solutions,Port Authority,Finland,contact70@example.com,SMB,churned,2022-07-07
+71,Vision Watch,Port Authority,Netherlands,contact71@example.com,SMB,active,2023-01-15
+72,Prime Solutions,Port Authority,Finland,contact72@example.com,SMB,active,2023-05-08
+73,Port Watch,Airport,Germany,contact73@example.com,SMB,active,2024-11-30
+74,Aero Solutions,Government,Germany,contact74@example.com,SMB,active,2022-01-15
+75,Drone Monitoring,Security,Finland,contact75@example.com,Enterprise,active,2022-03-06
+76,Sky Monitoring,Airport,Denmark,contact76@example.com,Enterprise,active,2023-06-05
+77,Prime Analytics,Port Authority,Norway,contact77@example.com,SMB,active,2023-10-10
+78,Aero Networks,Security,Germany,contact78@example.com,Enterprise,active,2024-12-22
+79,Aero Security,Airport,Finland,contact79@example.com,Mid-Market,trial,2023-08-16
+80,Vision Networks,Government,UK,contact80@example.com,SMB,active,2023-01-27
+81,City Security,Airport,Finland,contact81@example.com,SMB,churned,2023-02-23
+82,Drone Insights,Government,Sweden,contact82@example.com,SMB,active,2022-10-16
+83,Secure Monitoring,Port Authority,Norway,contact83@example.com,SMB,active,2023-01-14
+84,Drone Insights,Government,Netherlands,contact84@example.com,Mid-Market,active,2022-08-19
+85,Cloud Networks,Security,Denmark,contact85@example.com,Mid-Market,active,2024-10-14
+86,City Networks,Port Authority,Netherlands,contact86@example.com,SMB,active,2022-02-10
+87,Aero Monitoring,Security,Norway,contact87@example.com,Enterprise,active,2024-11-17
+88,Secure Analytics,Energy,Norway,contact88@example.com,Mid-Market,active,2022-05-15
+89,Cloud Watch,Construction,Norway,contact89@example.com,SMB,trial,2022-07-20
+90,Prime Monitoring,Government,Netherlands,contact90@example.com,Enterprise,active,2024-02-19
+91,Prime Monitoring,Construction,UK,contact91@example.com,Enterprise,active,2024-07-18
+92,Sky Analytics,Construction,Norway,contact92@example.com,Enterprise,active,2024-11-22
+93,Sky Monitoring,Government,Finland,contact93@example.com,SMB,active,2024-12-07
+94,Aero Watch,Port Authority,Netherlands,contact94@example.com,Mid-Market,active,2023-05-18
+95,Cloud Analytics,Energy,Norway,contact95@example.com,Mid-Market,active,2023-02-11
+96,City Monitoring,Security,Finland,contact96@example.com,Mid-Market,active,2024-03-15
+97,Drone Networks,Airport,UK,contact97@example.com,Enterprise,active,2022-04-09
+98,Secure Security,Security,Sweden,contact98@example.com,Mid-Market,active,2023-11-15
+99,Prime Networks,Airport,UK,contact99@example.com,Enterprise,active,2023-12-27
+100,Secure Networks,Security,Norway,contact100@example.com,Enterprise,active,2024-08-18
+101,Northern Monitoring,Government,Netherlands,contact101@example.com,Enterprise,active,2023-09-05
+102,Aero Analytics,Energy,Germany,contact102@example.com,SMB,active,2023-10-05
+103,Northern Solutions,Airport,Norway,contact103@example.com,SMB,active,2024-10-25
+104,Northern Insights,Logistics,Germany,contact104@example.com,SMB,active,2023-05-18
+105,Port Watch,Port Authority,Finland,contact105@example.com,Enterprise,active,2024-02-06
+106,Aero Watch,Security,Sweden,contact106@example.com,SMB,active,2023-02-02
+107,Northern Solutions,Security,Denmark,contact107@example.com,Mid-Market,active,2024-05-20
+108,Aero Monitoring,Airport,UK,contact108@example.com,SMB,active,2024-03-05
+109,Secure Monitoring,Port Authority,Sweden,contact109@example.com,Mid-Market,active,2023-01-28
+110,City Networks,Port Authority,Norway,contact110@example.com,Enterprise,active,2022-07-26
+111,Vision Insights,Government,Germany,contact111@example.com,Enterprise,active,2024-11-04
+112,Vision Systems,Logistics,UK,contact112@example.com,SMB,trial,2024-06-10
+113,Port Monitoring,Government,Germany,contact113@example.com,Enterprise,active,2024-05-13
+114,Aero Networks,Government,Netherlands,contact114@example.com,Mid-Market,churned,2024-01-13
+115,City Analytics,Government,Germany,contact115@example.com,SMB,active,2023-07-18
+116,Sky Watch,Government,Netherlands,contact116@example.com,Mid-Market,active,2024-10-17
+117,Aero Monitoring,Government,Finland,contact117@example.com,SMB,active,2022-04-06
+118,Vision Insights,Energy,UK,contact118@example.com,SMB,active,2023-04-30
+119,Port Networks,Port Authority,UK,contact119@example.com,Mid-Market,active,2022-08-19
+120,Secure Insights,Government,Denmark,contact120@example.com,SMB,active,2024-01-19
+121,Sky Security,Port Authority,Norway,contact121@example.com,SMB,active,2023-06-25
+122,Northern Watch,Port Authority,Netherlands,contact122@example.com,SMB,active,2024-11-25
+123,Northern Systems,Construction,Denmark,contact123@example.com,SMB,active,2023-06-09
+124,Port Systems,Energy,Germany,contact124@example.com,SMB,trial,2023-08-01
+125,Northern Networks,Government,Germany,contact125@example.com,Mid-Market,active,2023-11-13
+126,Vision Monitoring,Security,Denmark,contact126@example.com,Mid-Market,active,2023-07-11
+127,Drone Monitoring,Airport,UK,contact127@example.com,Mid-Market,active,2024-10-09
+128,Sky Watch,Logistics,Germany,contact128@example.com,Enterprise,active,2023-10-08
+129,Cloud Watch,Security,Finland,contact129@example.com,Mid-Market,active,2024-03-06
+130,Sky Networks,Energy,Finland,contact130@example.com,Mid-Market,active,2024-11-17
+131,City Security,Airport,Denmark,contact131@example.com,SMB,active,2022-07-09
+132,Sky Analytics,Energy,Netherlands,contact132@example.com,SMB,active,2023-09-25
+133,Vision Analytics,Port Authority,Netherlands,contact133@example.com,SMB,active,2023-09-20
+134,Prime Analytics,Airport,Denmark,contact134@example.com,SMB,active,2024-08-30
+135,Secure Insights,Port Authority,Netherlands,contact135@example.com,Mid-Market,trial,2023-12-11
+136,Aero Monitoring,Security,UK,contact136@example.com,SMB,active,2023-10-11
+137,Prime Watch,Security,UK,contact137@example.com,Enterprise,active,2022-11-14
+138,Prime Analytics,Airport,Netherlands,contact138@example.com,Enterprise,churned,2023-11-15
+139,Northern Solutions,Airport,Finland,contact139@example.com,Mid-Market,active,2023-10-26
+140,Drone Monitoring,Government,Netherlands,contact140@example.com,SMB,trial,2023-03-18
+141,Cloud Monitoring,Energy,UK,contact141@example.com,SMB,active,2023-07-18
+142,Drone Insights,Government,Sweden,contact142@example.com,Enterprise,active,2024-08-09
+143,Vision Systems,Energy,Norway,contact143@example.com,Enterprise,active,2023-11-30
+144,Port Solutions,Government,Germany,contact144@example.com,SMB,active,2022-04-23
+145,Aero Watch,Port Authority,Sweden,contact145@example.com,Mid-Market,active,2022-01-02
+146,Port Analytics,Airport,Netherlands,contact146@example.com,SMB,active,2023-10-04
+147,Aero Monitoring,Security,Finland,contact147@example.com,SMB,active,2022-08-08
+148,City Systems,Energy,Denmark,contact148@example.com,SMB,active,2024-05-04
+149,Vision Solutions,Energy,Netherlands,contact149@example.com,SMB,active,2023-01-20
+150,Aero Monitoring,Security,Finland,contact150@example.com,Enterprise,active,2024-12-12

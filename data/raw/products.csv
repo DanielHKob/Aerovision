@@ -1,0 +1,16 @@
+product_id,product_name,product_type,billing_model,unit_price,currency,is_active
+1,AeroVision Basic Monitoring,subscription,monthly,299.0,EUR,True
+2,AeroVision Pro Monitoring,subscription,monthly,599.0,EUR,True
+3,AeroVision Enterprise Suite,subscription,annual,1999.0,EUR,True
+4,Perimeter Alert Add-on,addon,monthly,79.0,EUR,True
+5,Thermal Imaging Module,addon,monthly,149.0,EUR,True
+6,Night Vision Package,addon,monthly,129.0,EUR,True
+7,Construction Site Monitoring,subscription,monthly,399.0,EUR,True
+8,Port Security Package,subscription,monthly,499.0,EUR,True
+9,Airport TFR Monitoring,subscription,annual,2499.0,EUR,True
+10,Wildlife Protection Module,addon,monthly,99.0,EUR,True
+11,Custom Model Training,service,project,2000.0,EUR,True
+12,API Usage Package - Small,usage,per_call,0.005,EUR,True
+13,API Usage Package - Medium,usage,per_call,0.004,EUR,True
+14,API Usage Package - Large,usage,per_call,0.003,EUR,True
+15,On-Prem Deployment Support,service,project,5000.0,EUR,True
