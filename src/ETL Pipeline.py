@@ -20,4 +20,9 @@ def simple_customers_etl() -> None:
 
 
 if __name__ == "__main__":
-    simple_customers_etl()
+    run = input("Would you like to start ETl Pipeline y/n?")
+    if run.lower() == "y":
+
+        simple_customers_etl()
+    else: 
+        print("")
