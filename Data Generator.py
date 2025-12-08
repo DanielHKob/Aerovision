@@ -7,7 +7,7 @@ import random
 
 def get_base_path() -> Path:
     # Use a path relative to this file instead of hard-coding absolute path
-    base_path = Path("data/raw")
+    base_path = Path("AeroVision/data/raw")
     return base_path
 
 
