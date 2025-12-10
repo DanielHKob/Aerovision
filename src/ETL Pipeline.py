@@ -11,7 +11,6 @@ from src.cleaning import drop_duplicates, strip_whitespace, to_lowercase
 
 
 def simple_customers_etl() -> None:
-    project_root = Path(__file__).resolve().parent
     raw_path = Path("data/raw")
     out_path = Path("data/cleaned/customers_clean.csv")
     print("the path is {raw_path}")
@@ -29,7 +28,9 @@ if __name__ == "__main__":
     run = input("Would you like to start ETl Pipeline y/n?: ")
     if run.lower() == "y":
 
-        simple_customers_etl()
+        print(Path)
+        
+        #simple_customers_etl()
     else: 
         print("You enter N for no, so the program is terminating")
         
